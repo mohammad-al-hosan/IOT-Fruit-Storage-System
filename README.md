@@ -60,6 +60,7 @@ Sensor data and actuator states are transmitted from Arduino Mega to the ESP8266
 
 ## YouTube Video Link:
    Explanation: https://youtu.be/SsQY30of0jE
+   Final Presentation: https://youtu.be/XsfrfsZgzEw
 
 ## 👥 Authors
 
